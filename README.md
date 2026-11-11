@@ -1,3 +1,2 @@
 # CLINICA-AUVET
-Projeto Clinica Veterinaria 
-teste
+Projeto Clinica Veterinaria
