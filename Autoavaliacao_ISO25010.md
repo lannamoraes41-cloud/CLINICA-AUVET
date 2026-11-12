@@ -38,6 +38,7 @@ consulta de disponibilidade.
 Foram avaliados os seguintes artefatos enviados pela equipe:
 
   Diagrama de sequência -- Agendar Consulta.
+  
   Diagrama de atividades -- Agendamento de Consulta.
 
 A análise considerou a clareza do fluxo, a comunicação entre os
