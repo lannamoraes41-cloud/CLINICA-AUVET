@@ -5,7 +5,7 @@
 **Integrantes:**\
 Gerson Junior\
 Isadora Assis Cardoso\
-Cláudio Josimar\
+Cláudio Josimar da Silva Filho\
 Arleane dos Santos Moraes
 
 ## Ponto forte da qualidade do projeto
