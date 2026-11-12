@@ -6,7 +6,7 @@
 Gerson Junior\
 Isadora Assis Cardoso\
 Cláudio Josimar\
-Lanna Moraes
+Arleane dos Santos Moraes
 
 ## Ponto forte da qualidade do projeto
 
